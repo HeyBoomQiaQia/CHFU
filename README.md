@@ -16,15 +16,16 @@
 
 ### File Structure
 ```
-├─data/
+CHFU: Secure Federated Unlearning for IoT-FL Systems
+├─data
 │    └─ datapro.py  # Data downloads
 │      
-├─Model/
+├─Model
 │    ├─ CNNCifar.py  
 │    ├─ m_MLP.py        
 │    └─ m_LeNet.py         
 │    
-├─utils/   
+├─utils  
 │    └─ Arguments.py  # Configure parameters
 │    
 ├─ datadistri.py    
