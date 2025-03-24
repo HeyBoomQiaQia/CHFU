@@ -15,3 +15,21 @@
 | numpy         | 1.18.5      |
 
 ### File Structure
+
+├─data
+│    └─ datapro.py  # Data downloads
+│      
+├─Model
+│    ├─ CNNCifar.py  
+│    ├─ m_MLP.py        
+│    └─ m_LeNet.py         
+│    
+├─utils   
+│    └─ Arguments.py  # Configure parameters
+│    
+├─ datadistri.py    
+├─ unlearning.py   
+├─ learning.py
+├─ main.py
+├─ MIA.py
+└─ README.md
