@@ -34,3 +34,7 @@ CHFU: Secure Federated Unlearning for IoT-FL Systems
 ├─ main.py
 ├─ MIA.py
 └─ README.md
+```
+## Execute CHFU on MNIST
+###  *** Run main.py. ***
+
