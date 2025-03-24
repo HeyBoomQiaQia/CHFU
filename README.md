@@ -15,6 +15,8 @@
 | numpy         | 1.18.5      |
 
 ### File Structure
+data
+└── datasets.txt
 
 ├─data
 │    └─ datapro.py  # Data downloads
