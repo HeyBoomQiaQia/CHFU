@@ -15,18 +15,16 @@
 | numpy         | 1.18.5      |
 
 ### File Structure
-data
-└── datasets.txt
-
-├─data
+```
+├─data/
 │    └─ datapro.py  # Data downloads
 │      
-├─Model
+├─Model/
 │    ├─ CNNCifar.py  
 │    ├─ m_MLP.py        
 │    └─ m_LeNet.py         
 │    
-├─utils   
+├─utils/   
 │    └─ Arguments.py  # Configure parameters
 │    
 ├─ datadistri.py    
